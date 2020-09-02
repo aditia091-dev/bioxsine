@@ -57,26 +57,27 @@
                             <a href="#slides">Home</a>
                         </li>
                         <li>
-                            <a href="#karbar-how-it-works-section">How</a>
+                            <a href="#karbar-how-it-works-section">Comming Soon</a>
                         </li>
                         <li>
-                            <a href="#karbar-service-section">Service</a>
+                            <a href="#karbar-service-section">How</a>
                         </li>
                         <li>
                             <a href="#karbar-why-choose-section">Why</a>
                         </li>
                         <li>
-                            <a href="#karbar-team-section">Team</a>
+                            <a href="http://maztastore.com/">Mazta Store</a>
                         </li>
-                        <li>
+                       <!-- <li>
                             <a href="#testimonial-and-client">Testimonial</a>
                         </li>
                         <li>
                             <a href="#karbar-price-section">Packages</a>
-                        </li>
+                        </li>-->
                         <li>
-                            <a href="#karbar-footer-section">Contact</a>
+                            <a href="http://maztafarma.com/">Contact</a>
                         </li>
+                        <!--<img src="<?php base_url(); ?>asset/images/logo.png" alt="karbar logo"></img>-->
                     </ul>
                 </div>
             </div>
@@ -265,16 +266,17 @@
     <!-- =========================
             why choose section
      ============================== -->
-    <section id="karbar-why-choose-section" class="section-light why-choose-us">
+    <section id="karbar-why-choose-section" class="#">
         <div class="container">
             <div class="row">
-                <div class="col-md-4">
+                <div class="col-md-6">
                     <div class="k-why-choose-us-main">
                         <div class="k-why-choose-us margin-bottom"> <img src="<?php base_url(); ?>asset/images/prod.png" alt="" class="img-responsive"> </div>
                         <div class="border-box"></div>
                     </div>
                 </div>
                 <!--end item-->
+
                 <div class="col-md-5 padding-left-4">
                     <div class="col-xs-12 nopadding">
                         <div class="sec-title-container text-center">
