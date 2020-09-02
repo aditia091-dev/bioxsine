@@ -53,7 +53,7 @@
                 </div>
                 <div class="collapse navbar-collapse" id="myNavbar">
                     <ul class="nav navbar-nav pull-right">
-                        <li class="active">
+                        <!--<li class="active">
                             <a href="#slides">Home</a>
                         </li>
                         <li>
@@ -68,15 +68,15 @@
                         <li>
                             <a href="http://maztastore.com/">Mazta Store</a>
                         </li>
-                       <!-- <li>
+                        <li>
                             <a href="#testimonial-and-client">Testimonial</a>
                         </li>
                         <li>
                             <a href="#karbar-price-section">Packages</a>
-                        </li>-->
+                        </li>
                         <li>
                             <a href="http://maztafarma.com/">Contact</a>
-                        </li>
+                        </li>-->
                         <!--<img src="<?php base_url(); ?>asset/images/logo.png" alt="karbar logo"></img>-->
                     </ul>
                 </div>
@@ -87,7 +87,7 @@
     <!-- =========================
             home slider section
      ============================== -->
-    <section id="slides" class="pb">
+    <section id="#" class="pb">
         <div class="slides-container">
             <div class="slide active">
                 <div class="img"><img src="<?php base_url(); ?>asset/images/slider/bg_1.png" alt="slide" class="img-responsive"></div>
@@ -101,7 +101,7 @@
                     </div>--!>
                 </div>
             </div>
-            <!-- end slide1 -->
+            <!-- end slide1 
             <div class="slide">
                 <div class="img"><img src="<?php base_url(); ?>asset/images/slider/bg_2.png" alt="slide" class="img-responsive"></div>
                 <div class="overlay"></div>
@@ -116,7 +116,7 @@
             </div>
             <!-- end slide2 -->
         </div>
-        <!-- end slides-container -->
+        <!-- end slides-container 
         <div class="slides-navigation">
             <a class="prev sqaureIconSec" href="#"> <i class="fa fa-chevron-left"></i></a>
             <a class="next sqaureIconSec" href="#"> <i class="fa fa-chevron-right"></i></a>
@@ -144,10 +144,10 @@
                 <!-- Section main title -->
                 <div class="col-xs-12 section-title-padding">
                     <div class="sec-title-container text-center">
-                        <div class="title-line"></div>
+                        <!--<div class="title-line"></div>
                         <h2 class="uppercase font-weight-7 less-mar-1">How it works</h2>
                         <div class="clearfix"></div>
-                        <p class="by-sub-title">lorem ipsum dolor sit amet</p>
+                        <p class="by-sub-title">lorem ipsum dolor sit amet</p>-->
                     </div>
                 </div>
                 <div class="clearfix"></div>
@@ -168,8 +168,8 @@
                         <div class="col-md-4 reveal-center-fade">
                             <!--<div class="step-number"><span>2</span></div>-->
                             <!--<h4>Prototyping</h4>-->
-                            <p>Tetapi seringkali aktivitas yang padat</p>
-                            <p>membuat kita mengabaikan kesehatan kulit.</p>
+                            <h2>Tetapi seringkali aktivitas yang padat</h2>
+                            <h2>membuat kita mengabaikan kesehatan kulit.</h2>
                         </div>
                     </div>
                     <!--step 2 end-->
@@ -266,7 +266,7 @@
     <!-- =========================
             why choose section
      ============================== -->
-    <section id="karbar-why-choose-section" class="#">
+    <section id="karbar-why-choose-section" class="section-light why-choose-us">
         <div class="container">
             <div class="row">
                 <div class="col-md-6">
@@ -576,27 +576,7 @@
             <div class="row">
                 <div class="col-sm-12">
                     <div class="subscribe-content">
-                        <!-- Newsletter title -->
-                        <div class="subscribe-content-inner">
-                            <h2>SUBSCRIBE TO OUR NEWSLETTER</h2>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit,
-                                <br> sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-                        </div>
-                    </div>
-                    <div class="subscribe-form">
-                        <div class="subscribe-form-inner">
-                            <!-- Newsletter form -->
-                            <form class="form-inline dv-form" id="mc-form">
-                                <div class="form-group">
-                                    <input id="mc-email" type="email" name="EMAIL" placeholder="Enter Your Email Address" class="form-control">
-                                    <button class="btn btn-24" name="Subscribe" id="subscribe-btn" type="submit">Subscribe</button>
-                                </div>
-                                <br>
-                                <label for="mc-email"></label>
-                                <div id="subscribe-result"></div>
-                            </form>
-                        </div>
-                    </div>
+                
                     <div class="socials">
                         <a href="#"><i class="fa fa-facebook"></i></a>
                         <a href="#"><i class="fa fa-twitter"></i></a>
@@ -606,7 +586,7 @@
                         <a href="#"><i class="fa fa-youtube"></i></a>
                     </div>
                     <div class="copyright">
-                        <p class="copyright">© 2016 All rights reserved</p>
+                        <p class="copyright">© 2020 All rights reserved</p>
                     </div>
                 </div>
             </div>
